@@ -46,7 +46,8 @@ class PlayerTurn{
 }
 
 class Rules {
-    constructor(){
+    constructor(player){
+        
     }
 
     score(dice){
